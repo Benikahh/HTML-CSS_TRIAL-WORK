@@ -1,0 +1,23 @@
+body{
+	background: rgba(0, 0, 255,0.5);
+}
+
+#one{
+	color: rgb(0, 0, 255);
+}
+
+#two{
+	color: rgb(255, 0, 0);
+}
+
+.you{
+	color: #FFC0CB;
+}
+
+.me{
+	color: #00FF00;
+}
+
+.first{
+	background: rgb(0, 0, 255);
+}
